@@ -15,7 +15,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 }
 
 Header.defaultProps = {
-    title: 'I love Tomatoes',
+    title: 'Task Tracker',
 }
 
 export default Header;
